@@ -10,4 +10,4 @@ This app implements using a database with a mobile-first design using the Ruby o
 Simple app, but it was the first app that I ever created.
 
 It was pushed live on heroku at the following link :
-[Splurt](https://splurty-christopher-hahn.herokuapp.com)
+[Splurty](https://splurty-christopher-hahn.herokuapp.com)
