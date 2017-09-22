@@ -1,25 +1,10 @@
-# README
+Splurty
+---------
+---------
+This is a Quote Generator app built in Ruby on Rails by myself, Christopher Hahn.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+This app implements using a database with a mobile-first design using the Ruby on Rails framework, HTML, and CSS.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Splurty
+Simple app, but it was the first app that I ever created.
